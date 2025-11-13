@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  YourDay-App: R code for the interactive health promotion
+  tool that integrates 24-hour movement behaviours
+message: >-
+  If you use this software, please cite it using the 
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kaja
+    family-names: Kastelic
+    email: kaja.kastelic@iam.upr.si
+    affiliation: 'University of Primorska, Andrej Marušič Institute'
+    orcid: 'https://orcid.org/0000-0003-4570-8064'
+repository-code: 'https://github.com/KastelicKaja/YourDay-App'
+abstract: >-
+  R code for the interactive health promotion tool that
+  integrates 24-hour movement behaviours
+keywords:
+  - 24-h movement behaviours
+  - guidelines
+  - promotion
+  - guide clinical discussions
+license: CC-BY-NC-SA-4.0
+version: '1.0'
+date-released: '2025-11-13'
